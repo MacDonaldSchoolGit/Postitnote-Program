@@ -5,5 +5,5 @@ class PostitManager():
 		self.postits = {}
 		
 	#empty function for now	
-	def saveToFile(self)
+	def saveToFile(self):
 		return 0
